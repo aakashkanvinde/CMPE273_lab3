@@ -1,0 +1,34 @@
+.col-6.addCourse input[type=text],textarea{
+    text-align: center;
+    border-radius: 24px;
+    color: rgb(66, 66, 66);
+    margin: 10px;
+    border: 2px solid #d4d4d4;
+    display: inline-flex;
+    padding: 5px 10px;
+    line-height: 20px;
+    outline: none;
+    width: 300px;
+    transition: 0.25s;
+
+}
+
+.col-6.addCourse input[type=text]:focus,textarea:focus{
+    width: 380px;
+    border-color: #2ECC71;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(35, 201, 54, 0.8);
+
+}
+
+.col-6.addCourse .btn.btn-success, .col-6.addCourse .btn.btn-danger{
+    font-size: 2rem;
+    color: white;
+    font-size: 18px;
+    margin: 25px auto;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 12px;
+    height: 50px;
+    width: 200px;
+    transition: 0.25s;
+}

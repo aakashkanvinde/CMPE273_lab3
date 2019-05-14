@@ -1,0 +1,43 @@
+.allAnnouncements{
+    border: 1px solid rgb(200, 200, 200);
+    border-radius: 10px;
+    margin-bottom: 5px;
+    padding:10px;
+}
+
+.allAnnouncements > a {
+    text-decoration: none;
+}
+
+.announcementTitle{
+    font-weight: 500;
+}
+
+.announcementTime{
+    float: right;
+    font-weight: 500;
+}
+
+.annfield{
+    vertical-align: top;
+}
+
+.row.announcementRow{
+    margin-left: 200px;
+}
+
+.col-10.announcementcolumn h3{
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-left: 370px;
+    width: fit-content;
+}
+
+.announcement.btn.btn-outline-info{
+    width: fit-content;
+    height: 45px;
+    font-size: 14px;
+    /* background-color: green; */
+    justify-content: center;
+    border-radius: 12px;
+}

@@ -1,0 +1,31 @@
+.row.searchcourses{
+    margin-left: 370px;
+    padding:0 25px 0 50px;
+    text-align: center;
+    width: fit-content;
+}
+
+.searchinput{
+    text-align: center;
+    margin: 20px auto;
+    margin-left: px;
+    justify-content: center;
+    width: 50%;
+    border-radius: 18px;
+    border: 2px solid #d4d4d4;
+    display: inline-flex;
+    line-height: 35px;
+    outline: none;
+    transition: 0.25s;
+    font-size: 1.5rem;
+
+}
+
+.searchinput:focus{
+    width: 80%;
+    border-color: #2ECC71;
+}
+
+.term{
+    color:grey;
+}

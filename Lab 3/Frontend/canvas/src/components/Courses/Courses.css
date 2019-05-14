@@ -1,0 +1,57 @@
+.Content{
+    margin:50px 50px 0 120px;
+}
+
+.row.allCourses{
+    margin:0 auto;
+    padding: 0 0 0 50px;
+    margin-left: 100px;
+}
+
+/* .Content.btn.btn-primary{
+    font-size: 1.5rem;
+    margin-left: 140px;
+    border-radius: 24px;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+    background: none;
+    border: 2px solid;
+    border: 0;
+    border-radius: 12px;
+    height: 45px;
+    width: 150px;
+    transition: 0.25s;
+} */
+
+.col-12.pageHeader{
+    margin-left: 250px; 
+}
+
+
+/* .btn.btn-info,.btn.btn-primary,.btn.btn-danger,.btn.btn-success{
+    color: white;
+    font-size: 14px;
+    margin-left: 140px;
+    text-align: center;
+    border: 2px solid;
+    border: 0;
+    border-radius: 12px;
+    height: 45px;
+    width: 150px;
+    transition: 0.25s;
+} */
+
+.courses.btn.btn-success{
+    color: white;
+    font-size: 14px;
+    margin-left: 140px;
+    text-align: center;
+    border: 2px solid;
+    border: 0;
+    border-radius: 12px;
+    height: 45px;
+    width: 150px;
+    transition: 0.25s;
+}
+

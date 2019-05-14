@@ -1,0 +1,58 @@
+.innerNavigation{
+    border-right: 2px solid rgb(235, 235, 235);
+    height: 80vh;
+    margin-left: 35px;
+    /* font: 2rem sans-serif; */
+}
+
+.innerNavigationList{
+    padding-left: 0;
+    text-decoration: none;
+    list-style: none;
+    margin: fit-content;
+    /* width: fit-content;  */
+}
+
+.innerNavigationList li{
+    font-family: 'Ubuntu', sans-serif;
+    list-style-type: none;
+    color: rgb(0, 0, 0); 
+    font-size: 15px;
+}
+
+.innerNavigationList.btn.btn-light.btn-block{
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    margin: 8px auto;
+    margin-left: px;
+    padding-left: 20px;
+    background: white;
+    border-style: none;
+}
+
+.innerNavigationList.btn.btn-light.btn-block:active{
+    background: #21559D;
+    color: white;
+    border-style: none;
+}
+
+.innerNavigationList.btn.btn-light:hover{
+    background: #21559D;
+    color: white;
+    border-style: none;
+    text-decoration: underline;
+}
+
+.innerNavigationList li:hover{
+    font-family: 'Ubuntu', sans-serif;
+    list-style-type: none;
+    background: #21559D;
+    color: white;
+}
+
+.innerNavigationList.btn.btn-light.btn-block.active{
+    background: #21559D;
+    color: white;
+    border-style: none;
+}

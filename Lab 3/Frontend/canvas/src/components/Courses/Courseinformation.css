@@ -1,0 +1,54 @@
+.courseDescription{
+    vertical-align: top;
+}
+/* .col-4.innerNavigationColumn{
+    font-size: 3rem;
+    margin-left: 100px; 
+    float: right;
+}
+
+.col-8.coursecolumn{
+    margin-top: -650px;
+    font-size: 2rem;
+    float: right;
+}
+*/
+.status.btn.btn-primary,.status.btn.btn-success,.status.btn.btn-danger{
+    margin-left: 250px;
+    color: white;
+    font-size: 14px;
+    margin-left: 140px;
+    text-align: center;
+    border: 2px solid;
+    border: 0;
+    border-radius: 12px;
+    height: 45px;
+    width: 150px;
+    transition: 0.25s;
+} 
+
+/* .pageContent{
+    float: right;
+} */
+
+.col-10.coursecolumn{
+    font-size: 2.5rem;
+    float: right;
+}
+
+.col-10.coursecolumn h3{
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-left: 370px;
+    width: fit-content;
+}
+
+/* .courseInfoButton button[type=button]{
+    background-color: rgb(120, 238, 120);
+    font-size: 10px;
+} */
+
+
+.row.courseInformation{
+    margin-left: 200px;
+}

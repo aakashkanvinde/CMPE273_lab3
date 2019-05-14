@@ -1,0 +1,20 @@
+.home-container{
+    height: fit-content;
+    width: 100%;
+}
+
+.hello{
+    justify-content: center;
+    text-align: center;
+}
+
+/* .gr__localhost{
+    width: fit-content;
+} */
+
+.welcomePage{
+    margin-top: 100px;
+    font-weight: 500;
+    font-style: italic;
+    
+}

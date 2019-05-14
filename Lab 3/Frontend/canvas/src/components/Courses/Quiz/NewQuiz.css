@@ -1,0 +1,23 @@
+.quizquestion{
+    width: 300px;
+}
+
+.row.newQuizRow{
+    margin-left: 200px;
+}
+
+.col-10.newQuizColumn h3{
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-left: 370px;
+    width: fit-content;
+}
+
+.newQuiz.btn.btn-primary{
+    width: 140px;
+    height: 45px;
+    font-size: 14px;
+    margin-top: 25px; 
+    justify-content: center;
+    border-radius: 12px;
+}

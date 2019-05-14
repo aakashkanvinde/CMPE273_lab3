@@ -1,0 +1,10 @@
+.row.peopleRow{
+    margin-left: 200px;
+}
+
+.col-10.peopleColumn h3{
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-left: 370px;
+    width: fit-content;
+}

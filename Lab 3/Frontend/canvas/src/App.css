@@ -1,0 +1,170 @@
+body{
+  background-color: white;
+}
+/* 
+.main-div {
+    background: #ffffff none repeat scroll 0 0;
+    color: black;
+    border-radius: 2px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid rgb(141, 135, 135);
+    height: relative;
+    width: 500px;
+  }
+  
+  .head {
+    margin: 0;
+  }
+
+.panel { color:#777777; font-size:14px; margin:40px; line-height:24px;}
+
+.nav{
+    background: rgb(224, 224, 224);
+    border: 2px solid #d4d4d4;
+    border-radius: 2px;
+    width: 100%;
+    float: none;
+    display: inline-block;
+    margin: 0px;
+ 
+ }
+
+ .nav h2{    
+    text-align: center;
+    justify-content: center;
+    margin: 40px;
+    margin-left: 680px;
+    font-size: 30px;
+    font-weight: 500;
+}
+ */
+
+/******************* DASHBOARD **************************/
+/* 
+.dashboard-div.card-view{
+  margin: 30px;
+}
+
+.column3{
+  display: inline;
+  font-size: 2em;
+}
+.column9{
+  display: inline;
+} */
+
+/******************* SIDE DRAWER AND BACKDROP **************************/
+
+/* .side_drawer{
+  height: 100%;
+  background: #21549B; */
+  /* background: white; */
+  /* box-shadow: 1px 0px 7px rgba(0, 0, 0, 0.5);
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 40%;
+  max-width: 250px;
+  z-index: 200;
+  transition: transform 0.3s ease-out;
+  transform: translate(-100%); */
+  /* display: inline; */
+/* } */
+/* 
+.side_drawer.open{
+  transform: translate(0);
+}
+
+.sidedrawer_items{
+  list-style: none;
+  margin-top: 30px;
+  display: inline-block;
+  padding: 0 1rem;
+  font-size: 75px;
+  margin: 5px;
+  font-weight: 500;
+}
+
+.sidedrawer_items.home{
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  background: white;
+  display: block;
+  transition: 0.3s;
+  margin-top: 10px;
+}
+
+.btn.btn-outline-secondary{
+  width: 230px;
+}
+
+.main{
+  height: 100%;
+}
+
+.backdrop{
+  background: rgba(0, 0, 0, 0.25);
+  z-index: 100;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transition: 0.5s;
+}
+
+.side_drawer open{
+  display: inline;
+} */
+
+/* @media (min-width: 769px) {
+  .side_drawer{
+      display: none;
+  }
+} */
+
+/******************* TOGGLE BUTTON **************************/
+/* 
+.toggle_button{
+  height: 24px;
+  width: 30px; 
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  box-sizing: border-box;
+  justify-content: space-around;
+  text-shadow: 1px 1px rgb(158, 158, 158);
+  -moz-window-shadow: 1px 1px rgb(158, 158, 158);
+
+}
+
+.toggle_button:focus{
+  outline: none;
+  text-shadow: 1px 1px rgb(80, 79, 79);
+  -moz-window-shadow: 1px 1px rgb(80, 79, 79);
+
+}
+
+.toggle_lines {
+  width: 20px;
+  height: 2px;
+  background: black;
+  -moz-window-shadow: 1px 1px rgb(80, 79, 79);
+
+}
+
+ */
+
+
+
+
+/******************* SIDE DRAWER **************************/
+
+
+/******************* SIDE DRAWER **************************/

@@ -1,0 +1,65 @@
+.navigationBar{
+    padding: 0;
+    float: left;
+    /* width: 250px; */
+    width: fit-content;
+    display: block;
+    position: absolute;
+  }
+  
+  #navigationBar{
+    color:white;
+    background-color: #21559D;
+    /* background-color: rgb(129, 98, 72); */
+    box-shadow: 5px;
+    display: flex;
+    width: 100%;
+    height: 100vh; 
+    border-right: 2px solid rgb(235, 235, 235);
+  }
+  
+  #navigationBar img{
+    background-color: white;
+    width: 250px;
+    height: 75px;
+  }
+  
+  .navigationList{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  
+  .navigationLogo{
+    padding: 17px 15px 15px 15px;
+
+  }
+  
+  li a{
+    color: white;
+    text-decoration: none;
+  }
+  li a:hover{
+    color: white;
+    text-decoration: none;
+    text-shadow: 2px 2px rgb(151, 115, 85);
+    /* box-shadow: 5px 5px 5px 5px #ffffff; */
+
+  }
+  .navigationLogout{
+    position: relative;
+    bottom: -1em;
+  }
+  
+  i{
+    text-decoration: none;
+    color: white;
+  }
+  
+  .navigationListText{
+    color:white;
+    font-size: 15px;
+  }

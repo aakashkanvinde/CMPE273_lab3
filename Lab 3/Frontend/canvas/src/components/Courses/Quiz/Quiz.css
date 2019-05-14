@@ -1,0 +1,29 @@
+.quiztab{
+    margin:5px 0;
+    padding: 10px;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.quiztab > a{
+    text-decoration: none;
+}
+
+.row.quizRow{
+    margin-left: 200px;
+}
+
+.col-10.quizColumn h3{
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-left: 370px;
+    width: fit-content;
+}
+
+.quiz.btn.btn-outline-primary{
+    width: 140px;
+    height: 45px;
+    font-size: 14px;
+    /* background-color: green; */
+    justify-content: center;
+    border-radius: 12px;
+}
